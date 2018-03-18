@@ -1,6 +1,7 @@
 {
     "author":"DongYuanxin",
     "summary":{
+        "简介.md":"简介.md",
         "python":{
             "高级应用":[
                 "三神器-迭代器、生成器和装饰器.md"
