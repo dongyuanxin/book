@@ -1,6 +1,9 @@
 {
     "author":"DongYuanxin",
     "summary":{
+        "Statement":[
+            "介绍和说明.md"
+        ],
         "NodeJs":[
             "module.exports和exports.md"
         ],
