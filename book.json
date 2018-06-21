@@ -1,29 +1,15 @@
 {
-    "author":"DongYuanxin",
-    "summary":{
-        "Statement":[
-            "介绍和说明.md"
-        ],
-        "NodeJs":[
-            "module.exports和exports.md"
-        ],
-        "JavaScript":{
-            "函数":[
-                "原型链妙用.md",
-                "调用模式.md",
-                "闭包.md",
-                "级联.md"
-            ],
-            "ES6":[
-                "Promise理解.md",
-                "let的单独作用域.md",
-                "理解const的“不变”.md"
-            ]
-        },
-        "python":{
-            "高级应用":[
-                "三神器-迭代器、生成器和装饰器.md"
-            ]
-        }
+  "author": "DongYuanxin",
+  "summary": {
+    "Statement": ["介绍和说明.md"],
+    "Code": ["hello.js", "hello.py"],
+    "NodeJs": ["module.exports和exports.md"],
+    "JavaScript": {
+      "函数": ["原型链妙用.md", "调用模式.md", "闭包.md", "级联.md"],
+      "ES6": ["Promise理解.md", "let的单独作用域.md", "理解const的“不变”.md"]
+    },
+    "python": {
+      "高级应用": ["三神器-迭代器、生成器和装饰器.md"]
     }
+  }
 }
